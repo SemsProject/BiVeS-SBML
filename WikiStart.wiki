@@ -1,0 +1,28 @@
+= SBML Utils for the BiVeS-Library =
+
+* see SBML package: source:src/main/java/de/unirostock/sems/bives/sbml 
+* see [[SBML-API]] extension of the bives-core:wiki:API
+* Parse SBML models: SbmlReading
+* include XMLUtils via Maven: ([http://mvn.sems.uni-rostock.de/releases/de/unirostock/sems/BiVeS-SBML/ find latest version id], import the [https://sems.uni-rostock.de/2013/10/maven-repository/ SEMS Maven repository])
+{{{
+#!xml
+<dependency>
+	<groupId>de.unirostock.sems</groupId>
+	<artifactId>BiVeS-SBML</artifactId>
+	<version>$VERSION</version>
+</dependency>
+}}}
+
+
+== Build ==
+
+* learn how to BuildBivesSbml
+
+== Starting Points ==
+
+ * TracGuide --  Built-in Documentation
+ * [http://trac.edgewall.org/ The Trac project] -- Trac Open Source Project
+ * [http://trac.edgewall.org/wiki/TracFaq Trac FAQ] -- Frequently Asked Questions
+ * TracSupport --  Trac Support
+
+For a complete list of local wiki pages, see TitleIndex.
