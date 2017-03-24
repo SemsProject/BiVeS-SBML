@@ -4,7 +4,7 @@ Build Bives-SBML
 When you've cloned the source code:
 
 ```sh
-git clone git://sems.uni-rostock.de/bives-sbml
+git clone git@github.com:SemsProject/BiVeS-SBML.git
 ```
 
 There are two supported options to build this project:
